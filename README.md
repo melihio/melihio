@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋
+  CS Student
+
+### I Currently Use
+![Most used](https://skillicons.dev/icons?i=nodejs,ts,react)
+
+### Familiar With
+![Familiar with](https://skillicons.dev/icons?i=go,flutter)
 
 <!--
 **melihio/melihio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
