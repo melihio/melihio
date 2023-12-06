@@ -1,5 +1,5 @@
-### Hey !
-       I am Melih and I am a CS Student at Polish Japanese Academy of Information Technology
+### Hey !  
+   I am Melih and I am a CS Student at Polish Japanese Academy of Information Technology
 
 ### I Currently Use
 ![Most used](https://skillicons.dev/icons?i=nodejs,ts,react)
