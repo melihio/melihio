@@ -1,10 +1,10 @@
-### 👋
-  CS Student
+### Hey !
+  Hello I am Melih and I am a CS Student at Polish Japanese Academy of Information Technology
 
 ### I Currently Use
 ![Most used](https://skillicons.dev/icons?i=nodejs,ts,react)
 
-### Familiar With
+### I Am Familiar With
 ![Familiar with](https://skillicons.dev/icons?i=go,flutter)
 
 <!--
