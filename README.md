@@ -1,2 +1,2 @@
 
-![](https://skillicons.dev/icons?i=zig,ts,react,java)
+![](https://skillicons.dev/icons?i=zig,golang,cpp,react)
